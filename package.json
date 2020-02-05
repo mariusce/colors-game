@@ -1,0 +1,10 @@
+{
+  "homepage": "https://mariusce.github.io/colors-game/colors.html",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "scripts": {
+    "buid": "npm i",
+    "deploy": "gh-pages -d build"
+  }
+}
